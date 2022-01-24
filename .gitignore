@@ -1,0 +1,14 @@
+# AutoCAD Raw
+*.bak
+*.dwg
+*.dwl
+*.dwl2
+*.dxf
+
+# Direct Output
+process/*.pdf
+process/*.svg
+process/*.xlsx
+
+# Coding
+.ipynb_checkpoints

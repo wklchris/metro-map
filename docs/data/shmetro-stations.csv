@@ -1,0 +1,89 @@
+﻿line,seq,name,display,display_en,timestamp,restroom,type,transfer_inside,transfer_outside,icon,x,y
+L1,1,L1_fujin,富锦路,Fujin Rd.,0,1,single,,,,150,8800
+L1,2,L1_youyiWest,友谊西路,Youyi Rd. (W),2,1,single,,,,150,8225
+L1,3,L1_baoan,宝安公路,Bao'an Hwy.,4,0,single,,,,150,7650
+L1,4,L1_gongfu,共富新村,Gongfu Xincun,7,0,single,,,,150,7075
+L1,5,L1_hulan,呼兰路,Hulan Rd.,10,0,transfer,18,,,150,6500
+L1,6,L1_tonghe,通河新村,Tonghe Xincun,12,0,single,,,,150,5925
+L1,7,L1_gongkang,共康路,Gongkang Rd.,15,0,single,,,,150,5350
+L1,8,L1_pengpu,彭浦新村,Pengpu Xincun,17,0,single,,,,150,4775
+L1,9,L1_wenshui,汶水路,Wenshui Rd.,20,0,single,,,,150,4200
+L1,10,L1_maxi,上海马戏城,Shanghai Circus World,23,0,single,,,,150,3625
+L1,11,L1_yanchang,延长路,Yanchang Rd.,25,0,single,,,,150,3050
+L1,12,L1_zhongshan,中山北路,Zhongshan Rd. (N),27,0,single,,,,150,2350
+L1,13,L1_railway,上海火车站,Shanghai Railway Station,30,1,transfer,,"3,4",railway,-725,1775
+L1,14,L1_hanzhong,汉中路,Hanzhong Rd.,31,0,transfer,"12,13",,,-725,1075
+L1,15,L1_xinzha,新闸路,Xinzha Rd.,33,1,single,,,,-375,700
+L1,16,L1_guangchang,人民广场,People's Square,35,1,transfer,"2,8",,,-50,0
+L1,17,L1_huangpi,一大会址·黄陂南路,Site of the First CPC National Congress·Huangpi Rd. (S),37,1,transfer,14,,,-375,-650
+L1,18,L1_shaanxi,陕西南路,Shaanxi Rd. (S),39,1,transfer,"10,12",,,-1425,-650
+L1,19,L1_changshu,常熟路,Changshu Rd.,41,1,transfer,7,,,-2050,-650
+L1,20,L1_hengshan,衡山路,Hengshan Rd.,43,1,single,,,,-2625,-1100
+L1,21,L1_xujiahui,徐家汇,Xujiahui Rd.,45,1,transfer,"9,11",,,-3000,-1475
+L1,22,L1_stadium,上海体育馆,Shanghai Indoor Stadium,48,1,transfer,4,,,-3625,-2100
+L1,23,L1_caobao,漕宝路,Caobao Rd.,51,0,transfer,12,,,-3950,-3200
+L1,24,L1_southrailway,上海南站,Shanghai South Railway Station,54,1,transfer,"3,15",金山,,-4375,-3700
+L1,25,L1_jinjiang,锦江乐园,Jinjiang Park,57,1,single,,,,-4850,-4175
+L1,26,L1_lianghua,莲花路,Lianghua Rd.,60,0,single,,,,-5325,-4650
+L1,27,L1_waihuan,外环路,Waihuanlu,62,0,single,,,,-5800,-5125
+L1,28,L1_xinzhuang,莘庄,Xinzhuang,64,1,transfer,5,,,-6275,-5600
+L2,1,L2_panxiang,蟠祥路,Panxiang Rd.,-1,,,,,,,
+L2,2,L2_xujing,徐泾东,East Xujing,0,0,single,,,,,
+L2,3,L2_hongqiaorail,虹桥火车站,Hongqiao Railway Station,3,1,transfer,"10,17",,railway,,
+L2,4,L2_SHAterminal2,虹桥2号航站楼,Hongqiao Airport Terminal 2,5,0,transfer,,10,airport,,
+L2,5,L2_songhong,淞虹路,Songhong Rd.,12,1,single,,,,,
+L2,6,L2_beixinjing,北新泾,Beixinjing,14,1,single,,,,,
+L2,7,L2_weining,威宁路,Weining Rd.,16,1,single,,,,,
+L2,8,L2_loushanguan,娄山关路,Loushanguan Rd.,19,1,transfer,,15,,,
+L2,9,L2_zhongshanpark,中山公园,Zhongshan Park,22,1,transfer,"3,4",,,,
+L2,10,L2_jiangsu,江苏路,Jiansu Rd.,24,1,transfer,11,,,,
+L2,11,L2_jingantemple,静安寺,Jing'an Temple,27,1,transfer,"7,14",,,,
+L2,12,L2_nanjingWest,南京西路,Nanjing Rd. (W),29,2,transfer,,"12,13",,,
+L2,13,L2_guangchang,人民广场,People's Square,32,1,transfer,"1,8",,,,
+L2,14,L2_nanjingeast,南京东路,Nanjing Rd. (E),34,1,transfer,10,,,,
+L2,15,L2_lujiazui,陆家嘴,Lujiazui,37,1,transfer,14,,,,
+L2,16,L2_dongchang,东昌路,Dongchang Rd.,40,1,single,,,,,
+L2,17,L2_shiji,世纪大道,Century Ave.,42,1,transfer,"4,6,9",,,,
+L2,18,L2_kejimuseum,上海科技馆,Shanghai Science & Technology Museum,45,1,single,,,,,
+L2,19,L2_shijipark,世纪公园,Century Park,48,1,single,,,,,
+L2,20,L2_longyang,龙阳路,Longyang Rd.,50,1,transfer,"7,16,18",磁浮,,,
+L2,21,L2_zhangjiang,张江高科,Zhangjiang High-Tech Park,54,0,single,,,,,
+L2,22,L2_jinke,金科路,Jinke Rd.,56,0,single,,,,,
+L2,23,L2_guanglan,广兰路,Guanglan Rd.,59,0,single,,,,,
+L2,24,L2_tangzheng,唐镇,Tangzhen,63,0,single,,,,,
+L2,25,L2_chuangxin,创新中路,Chuangxin Rd. (M),67,0,single,,,,,
+L2,26,L2_huaxiaEast,华夏东路,Huaxia Rd. (E),70,0,single,,,,,
+L2,27,L2_chuansha,川沙,Chuansha,74,0,single,,,,,
+L2,28,L2_lingkong,凌空路,Lingkong Rd.,77,0,single,,,,,
+L2,29,L2_yuandong,远东大道,Yuandong Ave.,82,1,single,,,,,
+L2,30,L2_haitian,海天三路,Haitiansan Rd.,89,1,single,,,,,
+L2,31,L2_PVG,浦东国际机场,Pudong International Airport,92,0,transfer,,磁浮,,,
+L3,1,L3_jiangyang,江杨北路,Jiangyang Rd. (N),0,1,single,,,,,
+L3,2,L3_tieli,铁力路,Tieli Rd.,2,0,single,,,,,
+L3,3,L3_youyi,友谊路,Youyi Rd.,5,1,single,,,,,
+L3,4,L3_baoyang,宝杨路,Baoyang Rd.,7,1,single,,,,,
+L3,5,L3_shuichan,水产路,Shuichang Rd.,10,1,single,,,,,
+L3,6,L3_songbin,淞滨路,Songbin Rd.,12,0,single,,,,,
+L3,7,L3_zhanghuabang,张华浜,Zhnaghuabang,14,1,single,,,,,
+L3,8,L3_songfa,淞发路,Songfa Rd.,16,1,single,,,,,
+L3,9,L3_changjiangSouth,长江南路,Changjiang Rd. (S),18,1,transfer,,,,,
+L3,10,L3_yingao,殷高西路,Yingao Rd. (W),21,1,single,,,,,
+L3,11,L3_jiangwan,江湾镇,Jiangwan Town,23,0,single,,,,,
+L3,12,L3_dabaishu,大柏树,Dabaishu,26,1,single,,,,,
+L3,13,L3_chifeng,赤峰路,Chifeng Rd.,28,0,single,,,,,
+L3,14,L3_hongkousoccer,虹口足球场,Hongkou Football Stadium,30,1,transfer,8,,,,
+L3,15,L3_dongbaoxing,东宝兴路,Dongbaoxing Rd.,33,1,single,,,,,
+L3,16,L3_baoshan,宝山路,Baoshan Rd.,35,0,transfer,4,,,,
+L3,17,L3_railway,上海火车站,Shanghai Railway Station,38,1,transfer,4,,,,
+L3,18,L3_zhongtan,中谭路,Zhongtan Rd.,41,0,transfer,,,,,
+L3,19,L3_zhenping,镇坪路,Zhenping Rd.,43,1,transfer,"3,7",,,,
+L3,20,L3_caoyang,曹杨路,Caoyang Rd.,46,1,transfer,"4,11",14,,,
+L3,21,L3_jinshajiang,金沙江路,Jinshajiang Rd.,48,1,transfer,"4,13",,,,
+L3,22,L3_zhongshanpark,中山公园,Zhongshan Park,50,1,transfer,"2,4",,,,
+L3,23,L3_yananWest,延安西路,Yan'an Rd. (W),52,0,transfer,4,,,,
+L3,24,L3_hongqiao,虹桥路,Hongqiao Rd.,55,0,transfer,4,,,,
+L3,25,L3_yishan,宜山路,Yishan Rd.,57,1,transfer,"4,9",,,,
+L3,26,L3_caoxi,漕溪路,Caoxi Rd.,59,0,single,,,,,
+L3,27,L3_longcao,龙漕路,Longcao Rd.,61,1,transfer,12,,,,
+L3,28,L3_shilong,石龙路,Shilong Rd.,64,0,single,,,,,
+L3,29,L3_railwaySouth,上海南路,Shanghai South Railway Station,66,1,transfer,"1,15",金山,railway,,
